@@ -1,1 +1,1 @@
-        1 file(s) copied.
+puts "Hello, #{ARGV.first}!"
